@@ -1,4 +1,4 @@
-# Project1 Change name!
+# MATCHMAKER!
 
 ## Welcome to MatchMaker! The best stop before you give up on finding love! Please answer 5 simple questions and we will match you with the companion of your dreams.
 

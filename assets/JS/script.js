@@ -214,7 +214,7 @@ function buildRequest(searchGender, goodWithChildren, coatType, dogSize, goodWit
            }
           var matchDisplay = $("<div id='match-main-display' class='container has-text-centered'><img id='match-img' src=" + thePhoto+ "> <h1 id='match-name' class='title is-3 has-text-white sriracha'>" + response.data.animals[i].name + "</h1><h2 id='match-dog-breed' class='subtitle is-4 has-text-white sriracha'>" + dogBreed() + "</h2><p id='match-description' class='is-size-5 has-text-white mali'>" + description + "</p><button id='accept-match' class='button is-danger is-size-2 has-text-weight-bold sriracha'>Accept Match!!!</button><br/><button id='decline-match' class='button is-dark is-size-4 sriracha'>Decline Match</button></div>");
           $('#main-body').append(matchDisplay);
-          if ($(window).width() < 405){
+          if ($(window).width() < 421){
             $('#accept-match').removeClass("is-size-2").addClass("is-size-4");
           }
         }

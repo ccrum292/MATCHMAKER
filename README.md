@@ -5,7 +5,7 @@
 ### This site is based on a fun "bait and switch" concept to find you dogs for adoption instead of a human romantic partner. Hopefully, this site will bring more searches and awareness to dogs in need of love.
 
 
-* [The URL of the functional, deployed application.](https://adriana-didden.github.io/MATCHMAKER/) Link will change name!
+* [URL of Deployed Application](https://ccrum292.github.io/MATCHMAKER/)
 
 ![Screenshot of Home Screen](./assets/img/matchMaker.png)
 
